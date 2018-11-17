@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Ir1d/remark-latex/issues"
   },
-  "homepage": "https://github.com/Ir1d/remark-latex#readme"
+  "homepage": "https://github.com/Ir1d/remark-latex#readme",
+  "dependencies": {
+    "escape-latex": "^1.2.0",
+    "unherit": "^1.1.1",
+    "xtend": "^4.0.1"
+  }
 }
