@@ -1,6 +1,6 @@
 {
   "name": "remark-latex",
-  "version": "0.10.0",
+  "version": "0.12.0",
   "description": "a compiler that stringifies mdast syntax trees to latex",
   "main": "index.js",
   "scripts": {
