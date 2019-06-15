@@ -2,6 +2,10 @@
 
 It's a tool to compile [mdast](https://github.com/syntax-tree/mdast) to latex.
 
+## related works
+
+https://github.com/zestedesavoir/zmarkdown/tree/master/packages/rebber
+
 ## usage
 
 ```node
