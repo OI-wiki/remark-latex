@@ -27,7 +27,7 @@
     "is-alphanumeric": "^1.0.0",
     "longest-streak": "^2.0.2",
     "mdast-util-compact": "^1.0.2",
-    "remark": "^10.0.1",
+    "remark": "^14.0.2",
     "remark-details": "^1.1.0",
     "strip-markdown": "^3.0.2",
     "unherit": "^1.1.1",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "remark-math": "^1.0.5",
-    "remark-parse": "^6.0.3",
+    "remark-parse": "^10.0.1",
     "unified": "^7.0.2",
     "unified-stream": "^1.0.4"
   }
